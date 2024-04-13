@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+This time it should create the conflict (Only to be resolved)
+
